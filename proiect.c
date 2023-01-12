@@ -45,7 +45,7 @@ void place_queen(int queen_number) {
 }
 
 
-int main()
-{
-    return 0;
+int main() {
+  place_queen(0);
+  return 0;
 }
